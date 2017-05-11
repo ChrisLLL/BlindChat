@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlindChatClient", "BlindChatClient\BlindChatClient.csproj", "{3C33FD9E-3A05-4805-9178-D4FB52B32BF6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlindChatServer", "BlindChatServer\BlindChatServer.csproj", "{CAC64C93-4D0D-44F0-9884-489AF8193C97}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C33FD9E-3A05-4805-9178-D4FB52B32BF6}.Debug|x86.ActiveCfg = Debug|x86
+		{3C33FD9E-3A05-4805-9178-D4FB52B32BF6}.Debug|x86.Build.0 = Debug|x86
+		{3C33FD9E-3A05-4805-9178-D4FB52B32BF6}.Release|x86.ActiveCfg = Release|x86
+		{3C33FD9E-3A05-4805-9178-D4FB52B32BF6}.Release|x86.Build.0 = Release|x86
+		{CAC64C93-4D0D-44F0-9884-489AF8193C97}.Debug|x86.ActiveCfg = Debug|x86
+		{CAC64C93-4D0D-44F0-9884-489AF8193C97}.Debug|x86.Build.0 = Debug|x86
+		{CAC64C93-4D0D-44F0-9884-489AF8193C97}.Release|x86.ActiveCfg = Release|x86
+		{CAC64C93-4D0D-44F0-9884-489AF8193C97}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
